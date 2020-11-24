@@ -1,4 +1,4 @@
-# visualization
+visualization
 This project contains two visualizations and the raw data of the two visualizations are given in data_1.csv and data_2.xlsx. 
 
 Visual_1 aims to analyse the patients data of a local walk-in centre and give the prediction of the future number of patients. 
